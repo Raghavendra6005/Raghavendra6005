@@ -19,7 +19,7 @@ const me = {
   base    : "Hyderabad, India 🇮🇳",
   doing   : ["building", "shipping", "automating"],
   believes: "great software is 50% code, 50% pipeline",
-  openTo  : true  // ← new opportunities
+  open to new opportunities  : true ,
 }
 ```
 
@@ -29,57 +29,55 @@ const me = {
 
 ---
 
-## ✦ &nbsp; a bit about me
+## ✦ &nbsp; Who I Am
 
-> I'm a developer who genuinely enjoys the full picture — from crafting a pixel-perfect UI to writing the Terraform that provisions the infrastructure it runs on. Currently at **HCLTech**, I work on enterprise-scale applications and love the moment a deployment pipeline turns green. ☁️
+> 🚀 **I used to write features — now I make sure they ship, scale, and stay running.**  
+> DevOps engineer at **HCLTech**, focused on the systems behind production — infrastructure, pipelines, and reliability.  
+> Most of my work lives in automation, deployments, and making sure things don’t break (and if they do, they recover fast).
 
-&emsp;🔨 &nbsp; Building scalable full-stack apps & containerised microservices  
-&emsp;⚙️ &nbsp; Automating CI/CD pipelines that make the whole team exhale  
-&emsp;☁️ &nbsp; AWS-first infrastructure — EC2, ECS, RDS, Lambda, CloudWatch  
-&emsp;📐 &nbsp; Clean architecture nerd. Agile believer. 2-week sprint survivor.  
-&emsp;☕ &nbsp; Powered by chai and the occasional 2am prod hotfix
+&emsp;⚙️ &nbsp; Building CI/CD pipelines that teams can rely on every day  
+&emsp;☁️ &nbsp; Working hands-on with AWS — EC2, ECS, RDS, Lambda, CloudWatch  
+&emsp;📦 &nbsp; Running containerized services and simplifying deployments  
+&emsp;🔍 &nbsp; Improving observability, monitoring, and incident response  
+&emsp;🛠️ &nbsp; Automating the repetitive, fixing the fragile, improving the messy  
 
 <br/>
 
 ---
 
-## 🧰 &nbsp; things I work with
+## 🛠️ &nbsp; My Tech Stack
 
 <div align="center">
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-fffbe6?style=flat-square&logo=javascript&logoColor=b8860b)
-![TypeScript](https://img.shields.io/badge/TypeScript-e8f0ff?style=flat-square&logo=typescript&logoColor=1c4fb5)
+### 💻 Programming & Scripting
+![C#](https://img.shields.io/badge/C%23-e8f5ff?style=flat-square&logo=c-sharp&logoColor=239120)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-e3f2fd?style=flat-square&logo=dotnet&logoColor=512bd4)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-e8f0ff?style=flat-square&logo=dotnet&logoColor=512bd4)
 ![Python](https://img.shields.io/badge/Python-e8f5ff?style=flat-square&logo=python&logoColor=1565c0)
-![Java](https://img.shields.io/badge/Java-fff3e0?style=flat-square&logo=openjdk&logoColor=e65100)
 ![C++](https://img.shields.io/badge/C++-f3e5f5?style=flat-square&logo=cplusplus&logoColor=6a1b9a)
 ![Bash](https://img.shields.io/badge/Bash-e8f5e9?style=flat-square&logo=gnubash&logoColor=1b5e20)
 
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-e3f8ff?style=flat-square&logo=react&logoColor=0277bd)
-![Node.js](https://img.shields.io/badge/Node.js-e8f5e9?style=flat-square&logo=nodedotjs&logoColor=1b5e20)
-![Express](https://img.shields.io/badge/Express-f5f5f5?style=flat-square&logo=express&logoColor=212121)
+### 🌐 Frontend & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-fff3e0?style=flat-square&logo=html5&logoColor=e64a19)
 ![CSS3](https://img.shields.io/badge/CSS3-e3f2fd?style=flat-square&logo=css3&logoColor=0d47a1)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-e8f0ff?style=flat-square&logo=dotnet&logoColor=512bd4)
 
-**DevOps & Cloud** ← *the part I love most*
-
+### ☁️ DevOps & Cloud (my current passion)
 ![AWS](https://img.shields.io/badge/AWS-fff8e1?style=flat-square&logo=amazonaws&logoColor=e65100)
+![Azure](https://img.shields.io/badge/Azure-e3f2fd?style=flat-square&logo=microsoftazure&logoColor=0078d4)
 ![Docker](https://img.shields.io/badge/Docker-e3f2fd?style=flat-square&logo=docker&logoColor=0277bd)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-e8eaf6?style=flat-square&logo=kubernetes&logoColor=283593)
 ![Terraform](https://img.shields.io/badge/Terraform-ede7f6?style=flat-square&logo=terraform&logoColor=4527a0)
 ![Jenkins](https://img.shields.io/badge/Jenkins-fce4ec?style=flat-square&logo=jenkins&logoColor=b71c1c)
+![Git](https://img.shields.io/badge/Git-e8eaf6?style=flat-square&logo=git&logoColor=f1502f)
+![GitHub](https://img.shields.io/badge/GitHub-fff8e1?style=flat-square&logo=github&logoColor=181717)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-e8eaf6?style=flat-square&logo=githubactions&logoColor=283593)
 ![Ansible](https://img.shields.io/badge/Ansible-ffebee?style=flat-square&logo=ansible&logoColor=c62828)
 ![Linux](https://img.shields.io/badge/Linux-fffff0?style=flat-square&logo=linux&logoColor=827717)
 
-**Databases & Observability**
-
+### 🗄️ Databases & Observability
 ![MySQL](https://img.shields.io/badge/MySQL-e3f2fd?style=flat-square&logo=mysql&logoColor=0277bd)
-![MongoDB](https://img.shields.io/badge/MongoDB-e8f5e9?style=flat-square&logo=mongodb&logoColor=1b5e20)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e8eaf6?style=flat-square&logo=postgresql&logoColor=283593)
+![SQL Server](https://img.shields.io/badge/SQL_Server-e8f0ff?style=flat-square&logo=sqlserver&logoColor=512bd4)
 ![Redis](https://img.shields.io/badge/Redis-ffebee?style=flat-square&logo=redis&logoColor=b71c1c)
 ![Prometheus](https://img.shields.io/badge/Prometheus-fff3e0?style=flat-square&logo=prometheus&logoColor=e64a19)
 ![Grafana](https://img.shields.io/badge/Grafana-fff8e1?style=flat-square&logo=grafana&logoColor=f57f17)
@@ -90,30 +88,33 @@ const me = {
 
 ---
 
-## 🚀 &nbsp; things I've built
+## 🛠️ &nbsp; DevOps & Full-Stack Projects
 
-> *"I believe in shipping fast, iterating faster, and never pushing to main on a Friday."*
-
-<br/>
-
-**DevOps & Cloud** &nbsp;☁️
-
-| &nbsp; | Project | What it does | Stack |
-|:---:|:---|:---|:---|
-| 🐳 | **[MobilePoint on Kubernetes](https://github.com/Raghavendra6005/MobilePoint)** | Containerised the full stack, deployed on AWS EKS with Helm charts, HPA auto-scaling & zero-downtime rolling updates | `Docker` `Kubernetes` `AWS EKS` `Helm` |
-| ⚙️ | **CI/CD Automation Pipeline** | Push to `main` → lint → test → build Docker image → push to ECR → deploy to ECS. No humans in the loop. | `Jenkins` `GitHub Actions` `AWS ECR/ECS` |
-| 🏗️ | **AWS Infrastructure as Code** | Modular Terraform configs: VPC, EC2, RDS Multi-AZ, S3, IAM, ALB — fully reproducible prod environment | `Terraform` `AWS` `Bash` `Route53` |
-| 📊 | **Observability Stack** | Prometheus scraping app metrics + Grafana dashboards + AlertManager rules so I can actually sleep at night | `Prometheus` `Grafana` `AlertManager` |
+> *"Automating workflows, scaling systems, and making deployments effortless."*
 
 <br/>
 
-**Full Stack** &nbsp;🌐
+### ☁️ DevOps & Cloud
 
 | &nbsp; | Project | What it does | Stack |
 |:---:|:---|:---|:---|
-| 📱 | **[MobilePoint](https://github.com/Raghavendra6005/MobilePoint)** | Service management app — REST APIs, JWT auth, real-time updates, responsive UI | `Node.js` `React` `MongoDB` `CSS` |
-| 🤖 | **[FaceMask Detector](https://github.com/Raghavendra6005/FaceMask_Detection)** | Real-time SVM classifier on live webcam frames with 95%+ accuracy | `Python` `OpenCV` `scikit-learn` |
-| 🧩 | **[DSA Pattern Library](https://github.com/Raghavendra6005/Pattern_Problems)** | 50+ pattern problems, clean solutions — because loops deserve love | `C++` |
+| 🐳 | **Containerized E‑Commerce Platform** | Containerized full‑stack e‑commerce app, deployed to Amazon EKS with Helm charts, horizontal scaling & zero‑downtime updates | `Docker` `Kubernetes` `Helm` `AWS` |
+| ⚙️ | **Automated CI/CD Pipeline** | Enterprise‑grade CI/CD: push → test → security scan → build → deploy to AWS & Azure automatically | `GitHub Actions` `Jenkins` `HashiCorp Terraform` `SonarQube` |
+| 🏗️ | **Multi‑Cloud IaC Environment** | Provisioned and maintained multi‑cloud infrastructure (VPC, networking, compute, storage) using reusable IaC modules | `Terraform` `AWS` `Azure` `Ansible` |
+| 📊 | **Centralized Monitoring & Alerting** | Full observability: Prometheus scraping, alert routing, Grafana dashboards, log aggregation & alerts | `Prometheus` `Grafana` `Loki` `CloudWatch` |
+| 🔐 | **Secrets & Security Automation** | Automated secret storage, IAM policies, compliant key rotation & security scanning | `Vault` `AWS Secrets Manager` `Terraform` |
+| 🌐 | **GitOps Deployment Platform** | GitOps workflows with GitHub Actions & ArgoCD for automated, audit‑friendly Kubernetes deployments | `GitHub Actions` `ArgoCD` `Kubernetes` |
+
+<br/>
+
+### 🌐 Full Stack
+
+| &nbsp; | Project | What it does | Stack |
+|:---:|:---|:---|:---|
+| 📱 | **MobilePoint** | Service management app with REST APIs, JWT auth, real‑time updates & responsive UI | `Node.js` `React` `MongoDB` `CSS` |
+| 🤖 | **FaceMask Detection (ML)** | Real‑time machine learning classifier detecting mask usage on webcam feeds | `Python` `OpenCV` `ML` |
+| ✈️ | **PlanTrip** | Flight reservation application built with .NET Core & tested with xUnit | `.NET Core` `Entity Framework` `SQL Server` `xUnit` |
+| ✍️ | **BloggingExpress** | Blogging web app built with .NET Framework + Entity Framework, with unit tests | `.NET Framework` `Entity Framework` `xUnit` |
 
 <br/>
 
@@ -139,15 +140,23 @@ const me = {
 
 ---
 
-## 💼 &nbsp; where I work
+## 💼 &nbsp; My Professional Journey
 
 <table>
   <tr>
     <td>
-      <strong>Software Engineer</strong> &nbsp;·&nbsp; <strong>HCLTech</strong> &emsp; <code>2023 → present</code>
+      <strong>Software Engineer</strong> &nbsp;·&nbsp; <strong>HCLTech</strong> &emsp; <code>2023 → Present</code>
       <br/><br/>
-      Working in cross-functional Agile squads on cloud-first enterprise solutions. My day-to-day sits at the intersection of full-stack development and platform engineering — writing application code in the morning and Terraform modules in the afternoon. <br/><br/>
-      <em>Cut deployment time by ~60% • Containerised legacy monoliths • Shipped features for 10k+ users</em>
+      Working on cloud-first, enterprise-grade solutions with a strong focus on DevOps practices, automation, and scalable systems. I contribute to CI/CD pipelines, manage cloud infrastructure, and implement containerized deployments to ensure smooth end-to-end delivery.
+      <br/><br/>
+      <em>Key Contributions:</em>
+      <ul>
+        <li>Automated deployment pipelines, reducing release times by ~60%</li>
+        <li>Containerized legacy applications and migrated them to Kubernetes</li>
+        <li>Implemented Infrastructure as Code (Terraform) for AWS and Azure environments</li>
+        <li>Enhanced monitoring and observability with Prometheus, Grafana, and CloudWatch</li>
+        <li>Improved platform reliability, reducing production incidents and downtime</li>
+      </ul>
     </td>
   </tr>
 </table>
